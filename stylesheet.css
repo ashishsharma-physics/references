@@ -1,0 +1,130 @@
+.header {
+  position: fixed;
+  left: 0;
+  bottom: 1;
+  right: 0;
+  top: 0;
+  width: 100%;
+  /* padding: -12px -12px; */
+  text-align: right;
+  /* background: #000000;
+  color: rgba(255, 255, 255, 0.801); */
+  font-size: 22px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #202020;
+  color: white;
+  text-align: center;
+  font-size: 5px;
+}
+
+.dashed-line {
+  border: 0.5px dashed #FF8080;
+}
+
+
+
+/* ------------------------------TAB LINKS---------------------------------- */
+
+ /* Style the tab */
+ .tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 19px;
+  color: #FF4040;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+} 
+
+/* ------------------------------TAB LINKS---------------------------------- */
+
+
+
+
+.title {color: #ffa605;}
+
+body {background-color: #ffffff;
+    color: #000000;
+    }
+
+img {margin-left: -10px;}
+
+p {font-size: 20px;margin-left: 30px;margin-right: 30px;}
+
+  
+h1 {color: #ffffff;text-align: center;margin-left: 30px;margin-right: 30px;}
+h3 {color: #FF4040;margin-left: 30px;margin-right: 30px;}  
+h4 {text-align: right; color: #FF8080;margin-left: 30px;margin-right: 30px;}
+h5 {text-align: right; color: #00C0C0;margin-left: 30px;margin-right: 30px;}
+
+ul {list-style-type:square;}
+li {margin-bottom: 15px;margin-left: 30px;margin-right: 30px;}
+
+hr {margin-left: 30px;margin-right: 30px;}
+
+
+
+
+
+/* a {color: #a66cff;}
+
+a:visited {color: #D3D3D3;}
+a:hover {color: #ffa605;}
+a:active {color: coral;} */
+
+
+a {color: #1518d4}
+
+
+
+
+
+/* Not understood beyond this 
+ 
+  /* nav a {
+    color: #ffffff;
+  }
+  footer {
+    color: #ffffff;
+  } */
+
+  /* * {
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+  } */
+  
+  
